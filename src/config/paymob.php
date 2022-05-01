@@ -25,18 +25,5 @@ return [
     |
     */
 
-    'username' => '',
-    'password' => '',
-
-    /*
-    |--------------------------------------------------------------------------
-    | PayMob integration id and iframe id
-    |--------------------------------------------------------------------------
-    |
-    | This is your PayMob integration id and iframe id.
-    |
-    */
-
-    'integration_id' => '',
-    'iframe_id' => '',
+    'api_key' => '',
 ];
